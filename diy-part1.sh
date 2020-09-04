@@ -18,4 +18,4 @@ sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.
 sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
 sed -i '$a src-git jerrykuku https://github.com/jerrykuku/lua-maxminddb' feeds.conf.default
-sed -i '$a src-git jerrykuku https://github.com/jerrykuku/luci-app-vssr' feeds.conf.default
+sed -i '$a src-git vssr https://github.com/jerrykuku/luci-app-vssr' feeds.conf.default
