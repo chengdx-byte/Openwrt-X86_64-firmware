@@ -18,8 +18,5 @@ sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.
 sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
 sed -i '$a src-git jerryk https://github.com/jerrykuku/openwrt-package' feeds.conf.default
-#sed -i '$a src-git colouricon https://github.com/esirplayground/luci-theme-atmaterial-ColorIcon' feeds.conf.default
 
-
-#git clone https://github.com/esirplayground/luci-theme-atmaterial-ColorIcon.git
 
